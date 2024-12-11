@@ -40,11 +40,8 @@ Some additional evaluation results are shown here.
 
 Attention weights for each head in each layer are visualized. 
 
-![avatar](./overview/eva1.png)
+![avatar](./overview/atten.png)
 
-![avatar](./overview/eva2.png)
-
-![avatar](./overview/eva3.png)
 
 ### References
 - [Linking common vulnerabilities and exposures to the mitre att\&ck framework: A self-distillation approach](https://arxiv.org/abs/2108.01696), Benjamin Ampel, Sagar Samtani, Steven Ullman, Hsinchun Chen - arXiv 2021
